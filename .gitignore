@@ -1,0 +1,18 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Sensitive wallet artifacts
+*.keystore
+*.key
+*.pem
+*.seed
+*mnemonic*
+*wallet-backup*
+.cache/
+

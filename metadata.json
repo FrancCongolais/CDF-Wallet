@@ -1,0 +1,10 @@
+{
+  "name": "CDF Wallet",
+  "description": "Portefeuille crypto non-custodial moderne et sécurisé pour BNB Smart Chain, BNB, CDF — Franc Congolais et USDT.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
